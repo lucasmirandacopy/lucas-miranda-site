@@ -17,9 +17,9 @@ Este é o site pessoal do Lucas Miranda, copywriter de resposta direta.
 ## Pendências (atualize esta lista ao concluir cada item)
 - [x] WhatsApp business (botão do CTA final + rodapé)
 - [x] LinkedIn (rodapé)
-- [ ] **Instagram**: link do rodapé ainda aponta pra "#" (comentário `EDITAR: LINK_INSTAGRAM`)
+- [x] Instagram (rodapé)
 - [x] Portfólio: pasta "PÁGINAS" do Google Drive + página do GPS da Advocacia (seção `#portfolio`)
-- [ ] **Foto nova**: substituir `assets/foto.jpeg`, mantendo o nome (máx. ~1000 px de largura).
+- [x] Foto nova (`assets/foto.jpeg`, 960×1280 px)
 - [ ] **Nome da newsletter**: hoje está "Confissões de um Copywriter" (provisório). Opções: Confissões de um Copywriter, Bala na Agulha, Miranda Letter. Trocar título e texto do bloco `#newsletter`.
 - [ ] **Formulário da newsletter**: ligar ao beehiiv quando a publicação existir (o Lucão orienta).
 - [ ] **Domínio próprio**: apontado na Vercel + Registro.br (ver o guia).
